@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dayanshu Sharma</h1>
-<h3 align="center">A passionate Software Engineer from India, Aspiring UI/UX Designer And Cybersecurity Learner.</h3>
+<h3 align="center">A passionate Software Engineer from India, Aspiring Ethical Hacker And UI/UX Design Learner .</h3>
 
 <div> 
-  <img align="right" src="D:\Downlods\Hacker ciber.jpg" alt="Ethical Hacking" width="400" />
+  <img align="right" src="https://github.com/Dayanshu0001/Dayanshu0001/blob/main/tenor.gif" alt="Ethical Hacking" width="400" />
 </div>
 
 <div>
-  <img src="https://preview.redd.it/7hvs58an33e41.gif?width=640&crop=smart&auto=webp&s=bba6a9d260030eb6cae26c6147ca7238fb5de965" alt="Ethical Hacking" width="400" />
+  <img src="https://preview.redd.it/7hvs58an33e41.gif?width=640&crop=smart&auto=webp&s=bba6a9d260030eb6cae26c6147ca7238fb5de965" alt="Ethical Hacking" width="500" />
 </div>
 
 - 🔭 I’m currently working on **INNOVATIVE SERVICES**  
-- 🌱 I’m currently learning **Graphic Designing with UI/UX and Cyber Security(CEH).**  
-- 📫 How to reach me **dayanshusharma90@gmail.com**
+- 🌱 I’m interested in **Designing with UI/UX and Cyber Security.**  
+- 📫 How to reach me **Sharmadayanshu2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
