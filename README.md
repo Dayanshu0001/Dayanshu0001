@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <img src="https://preview.redd.it/7hvs58an33e41.gif?width=640&crop=smart&auto=webp&s=bba6a9d260030eb6cae26c6147ca7238fb5de965" alt="Ethical Hacking" width="500" />
+  <img src="https://preview.redd.it/7hvs58an33e41.gif?width=640&crop=smart&auto=webp&s=bba6a9d260030eb6cae26c6147ca7238fb5de965" alt="Ethical Hacking" width="400" />
 </div>
 
 - 🔭 I’m currently working on **INNOVATIVE SERVICES**  
